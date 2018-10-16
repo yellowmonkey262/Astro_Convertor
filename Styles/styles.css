@@ -1,0 +1,21 @@
+body {
+	background-color: #FFFFFF;
+	font-family: Garamond;
+	font-size: small;
+	color: Black;
+	font-weight: bold;
+}
+
+.headers {
+    font-family: Garamond;
+    font-size: medium;
+    color: White;
+    font-weight: bold;
+}
+
+.buttons {
+    font-family: Garamond;
+    font-size: small;
+    color: White;
+    font-weight: bold;
+}

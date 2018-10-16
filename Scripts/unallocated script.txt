@@ -1,0 +1,4 @@
+
+insert into tblunallocated(lid, trndate, amount, description, allocatedBuilding, allocatedCode)
+
+select id, Date, Amount, Description, '' as allocatedBuilding, '' as allocatedCode from tblledgertransactions where id in (10662,11721)
